@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
 void printWelcomeMessage();
 int checkUserID(int id);
 int validateUser(int id, int PIN);
